@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What comes next in the sequence: 1, 11, 21, 1211, 111221?",
+        "answer": "312211",
+        "IQ_Level": "130-140"
+    },
+    {
+        "id": 2,
+        "question": "If a rooster lays an egg on top of a barn roof, which way does it roll?",
+        "answer": "Roosters don't lay eggs.",
+        "IQ_Level": "80-90"
+    },
+    {
+        "id": 3,
+        "question": "I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?",
+        "answer": "Pencil lead/graphite.",
+        "IQ_Level": "90-100"
+    },
+    {
+        "id": 4,
+        "question": "Which word is spelled incorrectly in every dictionary?",
+        "answer": "Incorrectly.",
+        "IQ_Level": "100-110"
+    },
+    {
+        "id": 5,
+        "question": "A man gave one son 10 cents and another son was given twice as much. What time is it?",
+        "answer": "Time to get a new watch.",
+        "IQ_Level": "80-90"
+    },
+    {
+        "id": 6,
+        "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+        "answer": "The letter 'M.'",
+        "IQ_Level": "90-100"
+    },
+    {
+        "id": 7,
+        "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
+        "answer": "An echo.",
+        "IQ_Level": "100-110"
+    },
+    {
+        "id": 8,
+        "question": "What has keys but can't open locks?",
+        "answer": "A piano.",
+        "IQ_Level": "90-100"
+    },
+    {
+        "id": 9,
+        "question": "If you have me, you want to share me. If you share me, you don't have me. What am I?",
+        "answer": "A secret.",
+        "IQ_Level": "100-110"
+    },
+    {
+        "id": 10,
+        "question": "I am always hungry, I must always be fed. The finger I touch will soon turn red. What am I?",
+        "answer": "Fire.",
+        "IQ_Level": "90-100"
+    },
+    {
+        "id": 11,
+        "question": "What has keys but can't open locks, and can sing but never talks?",
+        "answer": "A piano.",
+        "IQ_Level": "90-100"
+    },
+    {
+        "id": 12,
+        "question": "I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",
+        "answer": "Fire.",
+        "IQ_Level": "100-110"
+    },
+    {
+        "id": 13,
+        "question": "What has keys but can't open locks, and comes in a square box?",
+        "answer": "A keyboard.",
+        "IQ_Level": "100-110"
+    },
+    {
+        "id": 14,
+        "question": "What begins and has no end, and is the key to all life?",
+        "answer": "The letter 'E.'",
+        "IQ_Level": "80-90"
+    },
+    {
+        "id": 15,
+        "question": "What has an endless supply of letters but starts empty?",
+        "answer": "A mailbox.",
+        "IQ_Level": "100-110"
+    },
+    {
+        "id": 16,
+        "question": "I am not alive, but I can grow. I don't have lungs, but I need air. What am I?",
+        "answer": "Fire.",
+        "IQ_Level": "90-100"
+    },
+    {
+        "id": 17,
+        "question": "What can travel around the world while staying in a corner?",
+        "answer": "A postage stamp.",
+        "IQ_Level": "90-100"
+    },
+    {
+        "id": 18,
+        "question": "What has keys but can't open locks and can sing but not talk?",
+        "answer": "A piano.",
+        "IQ_Level": "90-100"
+    },
+    {
+        "id": 19,
+        "question": "How can you arrange four 9's to make 100?",
+        "answer": "99 + (9/9) = 100",
+        "IQ_Level": "110-120"
+    },
+    {
+        "id": 20,
+        "question": "You see a boat filled with people. It has not sunk, but when you look again you don’t see a single person on the boat. Why?",
+        "answer": "All the people were married, so there's not a single person on the boat.",
+        "IQ_Level": "100-110"
+    }
+]

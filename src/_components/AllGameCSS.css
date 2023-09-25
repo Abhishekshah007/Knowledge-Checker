@@ -1,0 +1,51 @@
+.heading{
+    font-size: 42px;
+    font-family: "Teko";
+    text-align: center;
+    color: black
+}
+
+
+.card{
+    width: 200px;
+    height: 200px;
+    color: red;
+    /* background: green; */
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    font-family: "Teko";
+    font-size: xx-large;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.card:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#inputData{
+    width: -webkit-fill-available;
+    padding: 10px;
+    font-size: 18px;
+    color: green;
+}
+
+button{
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 800;
+    color: orangered;
+}
+
+p{
+    font-family: 'Teko';
+}
